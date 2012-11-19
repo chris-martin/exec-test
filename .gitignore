@@ -1,0 +1,4 @@
+exec-test.war
+executable/foo
+webapp/target
+webapp/src/main/resources/
